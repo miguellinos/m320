@@ -1,0 +1,15 @@
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\bin\Debug\net7.0\Konstruktor.exe
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\bin\Debug\net7.0\Konstruktor.deps.json
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\bin\Debug\net7.0\Konstruktor.runtimeconfig.json
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\bin\Debug\net7.0\Konstruktor.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\bin\Debug\net7.0\Konstruktor.pdb
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.csproj.AssemblyReference.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.AssemblyInfoInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.AssemblyInfo.cs
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\refint\Konstruktor.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.pdb
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\Konstruktor.genruntimeconfig.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Konstruktor\Konstruktor\obj\Debug\net7.0\ref\Konstruktor.dll

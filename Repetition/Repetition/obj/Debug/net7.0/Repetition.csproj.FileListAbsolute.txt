@@ -1,0 +1,5 @@
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Repetition\Repetition\obj\Debug\net7.0\Repetition.csproj.AssemblyReference.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Repetition\Repetition\obj\Debug\net7.0\Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Repetition\Repetition\obj\Debug\net7.0\Repetition.AssemblyInfoInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Repetition\Repetition\obj\Debug\net7.0\Repetition.AssemblyInfo.cs
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Repetition\Repetition\obj\Debug\net7.0\Repetition.csproj.CoreCompileInputs.cache

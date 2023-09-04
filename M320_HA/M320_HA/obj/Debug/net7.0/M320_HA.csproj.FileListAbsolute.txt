@@ -1,0 +1,15 @@
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.csproj.AssemblyReference.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.AssemblyInfoInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.AssemblyInfo.cs
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.csproj.CoreCompileInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\bin\Debug\net7.0\M320_HA.exe
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\bin\Debug\net7.0\M320_HA.deps.json
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\bin\Debug\net7.0\M320_HA.runtimeconfig.json
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\bin\Debug\net7.0\M320_HA.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\bin\Debug\net7.0\M320_HA.pdb
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\refint\M320_HA.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.pdb
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\M320_HA.genruntimeconfig.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\M320_HA\M320_HA\obj\Debug\net7.0\ref\M320_HA.dll

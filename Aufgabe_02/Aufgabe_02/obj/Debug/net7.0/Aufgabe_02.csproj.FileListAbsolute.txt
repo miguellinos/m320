@@ -1,0 +1,15 @@
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\bin\Debug\net7.0\Aufgabe_02.exe
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\bin\Debug\net7.0\Aufgabe_02.deps.json
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\bin\Debug\net7.0\Aufgabe_02.runtimeconfig.json
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\bin\Debug\net7.0\Aufgabe_02.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\bin\Debug\net7.0\Aufgabe_02.pdb
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.csproj.AssemblyReference.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.AssemblyInfoInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.AssemblyInfo.cs
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.csproj.CoreCompileInputs.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\refint\Aufgabe_02.dll
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.pdb
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\Aufgabe_02.genruntimeconfig.cache
+C:\Users\rectr\OneDrive\Desktop\KSB\Modul\m320\Aufgabe_02\Aufgabe_02\obj\Debug\net7.0\ref\Aufgabe_02.dll
